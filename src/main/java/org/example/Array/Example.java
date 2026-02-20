@@ -6,6 +6,8 @@ public class Example {
         while(i<=4){
             System.out.println("Hello Zafar "+i);
             i++;
+
         }
     }
 }
+// Adding Numbers
