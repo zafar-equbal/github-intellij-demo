@@ -1,4 +1,4 @@
-package org.example.Pattern;
+package org.example.PatternStar;
 
 public class PrintStar {
     public static void main(String[] args) {
