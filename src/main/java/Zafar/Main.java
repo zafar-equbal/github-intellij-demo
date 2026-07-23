@@ -16,6 +16,8 @@ public class Main {
    
     }
 
+
+    
     public static void star2(int n){
 
         for(int i=0;i<=n;i++){
