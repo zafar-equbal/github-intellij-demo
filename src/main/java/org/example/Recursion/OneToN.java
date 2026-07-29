@@ -10,3 +10,5 @@ static void uptoN(int n){
     System.out.println(n-1);
   }
 }
+
+
